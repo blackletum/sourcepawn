@@ -919,7 +919,6 @@ class ISourcePawnEnvironment
     // @brief Returns the code of the pending exception.
     virtual int GetPendingExceptionCode(const ExceptionHandler* handler) = 0;
 
-
     /**
      * @brief Returns the version string.
      *
